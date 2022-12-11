@@ -56,7 +56,7 @@
     {
       "email": "joe@test.com",
       "password": "$2a$10$JjjxO2bt9TghhB4KXh.ATuJbfCmGlZVfFFl3oB.mv.evr0XLR0AO.",
-      "userName": "joe",
+      "userName": "Albee",
       "InfoPic": "./assets/images/default-user-pic/2.png",
       "role": "user",
       "id": 13
@@ -972,6 +972,48 @@
       "picUrl": "./assets/images/store.png",
       "releaseTime": "2022-12-07",
       "id": 20
+    },
+     {
+      "sweetness": "4",
+      "beauty": "4",
+      "price": "4",
+      "recommend": "4",
+      "return": "4",
+      "variety": "4",
+      "text": "布丁很好吃~提拉米蘇也很讚!!但店在5樓，去之前最好先預約，以免撲空 ",
+      "shopId": "27",
+      "userId": "13",
+      "picUrl": "./assets/images/store.png",
+      "releaseTime": "2022-12-08",
+      "id": 21
+    },
+     {
+      "sweetness": "4",
+      "beauty": "4",
+      "price": "4",
+      "recommend": "5",
+      "return": "5",
+      "variety": "4",
+      "text": "店內環境很復古，午茶套餐的司康和抹醬可以選兩種口味，乳酪抹醬很讚~推推!!",
+      "shopId": "25",
+      "userId": "10",
+      "picUrl": "./assets/images/store.png",
+      "releaseTime": "2022-12-08",
+      "id": 22
+    },
+     {
+      "sweetness": "4",
+      "beauty": "4",
+      "price": "4",
+      "recommend": "5",
+      "return": "5",
+      "variety": "4",
+      "text": "迷你的小鬆餅超可愛也很好吃，鹹食也很優秀~ 已回訪2次以上!!",
+      "shopId": "6",
+      "userId": "12",
+      "picUrl": "./assets/images/store.png",
+      "releaseTime": "2022-12-09",
+      "id": 23
     }
   ],
   "bookmarks": [
